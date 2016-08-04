@@ -1,0 +1,50 @@
+_repo: The-Pioneers--Or-The-Sources-of-the-Susquehanna_2275
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooper, James Fenimore
+    aliases:
+    - Cooper, Fenimore
+    - Cooper, J. Fenimore (James Fenimore)
+    - Morgan, Jane
+    birthdate: 1789
+    deathdate: 1851
+    gutenberg_agent_id: '483'
+    url: http://www.gutenberg.org/2009/agents/483
+    wikipedia: http://en.wikipedia.org/wiki/James_Fenimore_Cooper
+description: "The Pioneers, or The Sources of the Susquehanna; a Descriptive Tale\
+  \ is a historical novel by American writer James Fenimore Cooper. It was the first\
+  \ of five novels known as the Leatherstocking Tales. Published in 1823, the period\
+  \ it covers makes The Pioneers the fourth chronologically in terms of the novels'\
+  \ plots.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2000-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2275'
+  wikidata: Q1898036
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (State) -- History -- 1775-1865 -- Fiction'
+- !lcsh 'Bumppo, Natty (Fictitious character) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Historical fiction'
+- !lcsh 'Frontier and pioneer life -- New York (State) -- Fiction'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: The Pioneers; Or, The Sources of the Susquehanna
+url: http://www.gutenberg.org/ebooks/2275
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%AF_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://hy.wikipedia.org/wiki/%D5%8A%D5%AB%D5%B8%D5%B6%D5%A5%D6%80%D5%B6%D5%A5%D6%80%D5%A8_%D5%AF%D5%A1%D5%B4_%D5%8D%D5%A1%D5%BD%D6%84%D5%B8%D6%82%D5%A5%D5%B0%D5%A1%D5%B6%D5%B6%D5%A1%D5%B5%D5%AB_%D5%A1%D5%B2%D5%A2%D5%B5%D5%B8%D6%82%D6%80%D5%B6%D5%A5%D6%80%D5%A8_(%D5%BE%D5%A5%D5%BA)
+- https://de.wikipedia.org/wiki/Die_Ansiedler
+- https://pl.wikipedia.org/wiki/Pionierowie_(powie%C5%9B%C4%87)
+- https://bg.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D0%B8
+- https://sk.wikipedia.org/wiki/Priekopn%C3%ADci
+- https://en.wikisource.org/wiki/The_Pioneers
+- https://en.wikipedia.org/wiki/The_Pioneers_(novel)
+- https://it.wikipedia.org/wiki/I_pionieri
+- https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D1%8B,_%D0%B8%D0%BB%D0%B8_%D0%A3_%D0%B8%D1%81%D1%82%D0%BE%D0%BA%D0%BE%D0%B2_%D0%A1%D0%B0%D1%81%D0%BA%D1%83%D0%B8%D1%85%D0%B0%D0%BD%D0%BD%D1%8B
+- https://az.wikipedia.org/wiki/Pionerl%C9%99r_(roman)
