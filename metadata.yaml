@@ -1,5 +1,8 @@
 _repo: The-Pioneers--Or-The-Sources-of-the-Susquehanna_2275
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooper, James Fenimore
@@ -17,6 +20,8 @@ description: "The Pioneers, or The Sources of the Susquehanna; a Descriptive Tal
   \ of five novels known as the Leatherstocking Tales. Published in 1823, the period\
   \ it covers makes The Pioneers the fourth chronologically in terms of the novels'\
   \ plots.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2275#The-Pioneers--Or-The-Sources-of-the-Susquehanna
 gutenberg_issued: '2000-08-01'
 gutenberg_type: Text
 identifiers:
